@@ -1,0 +1,29 @@
+---
+Checks: >
+  bugprone-*,
+  performance-*,
+  modernize-*,
+  readability-*,
+  cppcoreguidelines-*,
+  -cppcoreguidelines-avoid-magic-numbers,
+  -cppcoreguidelines-pro-type-vararg,
+  -cppcoreguidelines-special-member-functions,
+  -cppcoreguidelines-owning-memory,
+  -cppcoreguidelines-macro-usage,
+  -bugprone-easily-swappable-parameters,
+  -modernize-use-trailing-return-type,
+  -readability-identifier-length,
+
+  -llvmlibc-*,
+  -fuchsia-*,
+  -google-*,
+  -altera-*,
+  -hicpp-*
+
+WarningsAsErrors: ""
+
+HeaderFilterRegex: ".*tetris.*"
+
+FormatStyle: file
+
+SystemHeaders: false

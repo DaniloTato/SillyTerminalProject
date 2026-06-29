@@ -1,0 +1,5 @@
+CompileFlags:
+  Add:
+    - -std=c++20
+    - -I/Users/danilo_tato/coding/c++/tetris/include
+    - -I/Users/danilo_tato/coding/c++/tetris/rot/include

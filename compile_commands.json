@@ -1,0 +1,87 @@
+[
+  {
+    "file": "src/Color.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-Iinclude",
+      "-c",
+      "src/Color.cpp",
+      "-o",
+      "build/Color.o"
+    ],
+    "directory": "/Users/danilo_tato/coding/c++/tetris",
+    "output": "build/Color.o"
+  },
+  {
+    "file": "src/main.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-Iinclude",
+      "-c",
+      "src/main.cpp",
+      "-o",
+      "build/main.o"
+    ],
+    "directory": "/Users/danilo_tato/coding/c++/tetris",
+    "output": "build/main.o"
+  },
+  {
+    "file": "src/Pixel.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-Iinclude",
+      "-c",
+      "src/Pixel.cpp",
+      "-o",
+      "build/Pixel.o"
+    ],
+    "directory": "/Users/danilo_tato/coding/c++/tetris",
+    "output": "build/Pixel.o"
+  },
+  {
+    "file": "src/TerminalBuffer.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-Iinclude",
+      "-c",
+      "src/TerminalBuffer.cpp",
+      "-o",
+      "build/TerminalBuffer.o"
+    ],
+    "directory": "/Users/danilo_tato/coding/c++/tetris",
+    "output": "build/TerminalBuffer.o"
+  },
+  {
+    "file": "src/TerminalWindow.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-O2",
+      "-Iinclude",
+      "-c",
+      "src/TerminalWindow.cpp",
+      "-o",
+      "build/TerminalWindow.o"
+    ],
+    "directory": "/Users/danilo_tato/coding/c++/tetris",
+    "output": "build/TerminalWindow.o"
+  }
+]
