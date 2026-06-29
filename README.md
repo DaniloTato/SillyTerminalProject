@@ -2,6 +2,19 @@
 
 A small C++ ASCII animation project built with CMake.
 
+```
+                                   x
+              Hello World
+           $
+                                       %
+                          O
+                         /|\      $
+                         / \
+                    *
+
+                    $    x
+```
+
 ## Project Overview
 
 `SillyVideo` is a console animation application using a custom ASCII rendering library in `rot/`. The app displays a walking stick figure, falling snowflakes, and centered text inside a terminal window.
